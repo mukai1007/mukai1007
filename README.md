@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-	<a href="linkedin-url">
+	<a href="https://www.linkedin.com/in/mukai-jakypbekov-b268a5269/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 	<a href="twitter-url">
@@ -16,7 +16,7 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Web Technologies**
 - 📄 I learn English
 - 📫 Reach me by [email](mailto:email-address)
 - 🌍 I like to travel
