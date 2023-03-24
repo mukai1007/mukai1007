@@ -17,9 +17,8 @@
 
 ### About me
 - 🌱 I’m currently learning **Web3**
-- 📝 I regularly write articles on [Medium](medium-link)
 - 📄 I learn English
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
+- 📫 Reach me by [email](mailto:email-address)
 - 🌍 I like to travel
 
 ### Languages and tools
