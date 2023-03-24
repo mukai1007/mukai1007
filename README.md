@@ -7,10 +7,10 @@
 	<a href="https://www.linkedin.com/in/mukai-jakypbekov-b268a5269/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
-	<a href="twitter-url">
+	<a href="https://twitter.com/jakypbekov_m">
 		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 	</a>
-	<a href="@Mukai_Jakypbekov">
+	<a href="https://web.telegram.org/@Mukai_Jakypbekov">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
