@@ -10,7 +10,7 @@
 	<a href="https://twitter.com/jakypbekov_m">
 		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 	</a>
-	<a href="https://web.telegram.org/@Mukai_Jakypbekov">
+	<a href="https://t.me/@Mukai_Jakypbekov">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
