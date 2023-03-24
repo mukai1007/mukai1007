@@ -18,7 +18,7 @@
 ### About me
 - 🌱 I’m currently learning **Web Technologies**
 - 📄 I learn English
-- 📫 Reach me by [email](mailto:email-address)
+- 📫 Reach me by [email](mailto:jakypbekov.mukai@gmail.com)
 - 🌍 I like to travel
 
 ### Languages and tools
