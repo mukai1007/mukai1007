@@ -16,11 +16,11 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Web3, GameDev**
+- 🌱 I’m currently learning **Web3**
 - 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
+- 📄 I learn English
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-- 🌍 I speak English
+- 🌍 I like to travel
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
